@@ -16,10 +16,10 @@ const Footer = () => {
                             <h5 className="widget-title">About Us</h5>
                             <p className="mt-3">Welcome to Smart Steps: International Student Application Assistance! We simplify the university application process for international students aspiring to study in Australia.</p>
                             <ul className="list-inline footer-socials">
-                                <li className="list-inline-item"><a href="#"><i className="fab fa-facebook-f"></i></a></li>
-                                <li className="list-inline-item"> <a href="#"><i className="fab fa-twitter"></i></a></li>
-                                <li className="list-inline-item"><a href="#"><i className="fab fa-linkedin"></i></a></li>
-                                <li className="list-inline-item"><a href="#"><i className="fab fa-pinterest"></i></a></li>
+                                <li className="list-inline-item"><a href="/"><i className="fab fa-facebook-f"></i></a></li>
+                                <li className="list-inline-item"> <a href="/"><i className="fab fa-twitter"></i></a></li>
+                                <li className="list-inline-item"><a href="/"><i className="fab fa-linkedin"></i></a></li>
+                                <li className="list-inline-item"><a href="/"><i className="fab fa-pinterest"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -33,18 +33,6 @@ const Footer = () => {
                             </ul>
                         </div>
                     </div>
-                    {/* <div className="col-lg-2 col-sm-6 col-md-6">
-                        <div className="footer-widget mb-5 mb-lg-0">
-                            <h5 className="widget-title">Courses</h5>
-                            <ul className="list-unstyled footer-links">
-                                <li><a href="#">SEO Business</a></li>
-                                <li><a href="#">Digital Marketing</a></li>
-                                <li><a href="#">Graphic Design</a></li>
-                                <li><a href="#">Site Development</a></li>
-                                <li><a href="#">Social Marketing</a></li>
-                            </ul>
-                        </div>
-                    </div> */}
                     <div className="col-lg-3 col-sm-6 col-md-6">
                         <div className="footer-widget footer-contact mb-5 mb-lg-0">
                             <h5 className="widget-title">Contact </h5>
